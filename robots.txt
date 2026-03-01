@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jojo.seeqme.com/sitemap.xml
+Sitemap: https://jhmeel.seeqme.com/sitemap.xml
